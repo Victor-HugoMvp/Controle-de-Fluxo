@@ -10,5 +10,6 @@ public class SistemaIbge {
 		System.out.println(eb.getSigla());
 		System.out.println(eb.getNomeMaiusculo());
 		System.out.println(eb.getIbge());
+		System.out.println(eb.getNome());
 	}
 }
